@@ -1,5 +1,5 @@
 source :rubygems
 
-gem 'pcap'
-gem 'ncurses'
+gem 'pcaprub'
+gem 'ncursesw'
 
